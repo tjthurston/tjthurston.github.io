@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>TITLE, X/X/XX</title></head>
+
+
+
+<body bgcolor=ivory><table><tr><td width=600><p align=right><a href="../index.htm"><font size=4 face="Comic Sans MS"  color=darkblue>Home</font></a>&nbsp; &nbsp; &nbsp;<a href="../library/index.htm"><font size=4 face="Comic Sans MS"  color=darkblue>Photo Gallery</font></a>&nbsp; &nbsp; &nbsp;<a href="../classrm/index.htm"><font size=4 face="Comic Sans MS"  color=darkblue>Classroom</font></a>&nbsp; &nbsp; &nbsp;<a href="../texts/index.htm"><font size=4 face="Comic Sans MS"  color=darkblue>Documents</font></a><br><font size=6  face="Comic Sans MS" color=darkred><b>Works of Franklin D. Roosevelt</b></font><br>
+
+
+
+<center><h2>TITLE</h2>
+<h3>DATE</h3>
+<A HREF="../texts/.htm">Publishing Information</A>
+</center><p>
+
+<ol>
+
+
+
+
+
+&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>
+</ol></td></tr></table></BODY></HTML>
+
+
+
+
